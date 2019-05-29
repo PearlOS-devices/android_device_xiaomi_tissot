@@ -41,5 +41,9 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
 BUILD_FINGERPRINT := "xiaomi/tissot/tissot_sprout:8.0.0/OPR1.170623.026/8.1.10:user/release-keys"
 
+#Boot Animation res
 TARGET_BOOT_ANIMATION_RES := 1080
 
+CPU_MODEL := "Snapdragon_625"
+PEARL_BUILD_TYPE := "OFFICIAL"
+PEARL_MAINTAINER := "Himanshu Naamdev"
